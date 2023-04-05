@@ -1,4 +1,7 @@
 .sacola{
+    position: fixed;
+    top: 8px;
+    right:10px;
 background: url(../img/sacola.png) no-repeat top right;
 padding-top: 8px;
 font-size: 14px;
@@ -14,6 +17,8 @@ width: 140px;
 }
 
 .menu-opcoes ul{
+    position: fixed;
+    right:10px;
     font-size: 15px;
 }
 
